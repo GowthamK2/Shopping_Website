@@ -1,4 +1,4 @@
-![Screenshot 2025-03-04 222408](https://github.com/user-attachments/assets/5c64abf6-c4ab-4e29-840b-f3d24662540c)# StyleHub - E-commerce Landing Page
+## StyleHub - E-commerce Landing Page
 
 This repository contains a responsive e-commerce landing page template built with HTML and CSS. The design features a clean, modern interface for an online fashion store called "StyleHub."
 
