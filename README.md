@@ -47,7 +47,6 @@ git clone https://github.com/yourusername/stylehub-landing-page.git
 Tested and works on:
 - Chrome 90+
 - Firefox 88+
-- Safari 14+
 - Edge 90+
 
 ## License
