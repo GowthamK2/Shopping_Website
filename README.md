@@ -16,7 +16,7 @@ This repository contains a responsive e-commerce landing page template built wit
   - Newsletter subscription form
   - Comprehensive footer
 
-## Technical Details
+## Technical Details:
 
 - **Pure HTML/CSS**: No JavaScript or external libraries required
 - **CSS Features Used**:
